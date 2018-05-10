@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{6AD1DD4D-D7C5-7E12-390D-85475F766871}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Zach/Scripts/MainMenu.cs">
+    <Files>
+      <File FileName="Assets/Zach/Scripts/BoardCreator.cs" Line="52" Column="9" />
+      <File FileName="Assets/Taylor/Scripts/GunProj.cs" Line="32" Column="35" />
+      <File FileName="Assets/Zach/Scripts/SkeletonController.cs" Line="133" Column="41" />
+      <File FileName="Assets/Andrew/Scripts/UIController.cs" Line="22" Column="4" />
+      <File FileName="Assets/Zach/Scripts/MainMenu.cs" Line="46" Column="22" />
+      <File FileName="Assets/Zach/Scripts/FlyingSkullController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Zach/Scripts/ZombieController.cs" Line="88" Column="24" />
+      <File FileName="Assets/Zach/Scripts/FloatyText.cs" Line="37" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Manic_220Vox PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

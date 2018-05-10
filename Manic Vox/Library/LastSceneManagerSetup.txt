@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Taylor/SkullDaddy.unity
+  isLoaded: 1
+  isActive: 1

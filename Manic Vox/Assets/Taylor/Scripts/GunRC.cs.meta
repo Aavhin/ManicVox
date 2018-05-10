@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: adc173fd527d95148858eccb2e037b6c
+timeCreated: 1524440848
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - impactFX: {instanceID: 0}
+  - flashFX: {instanceID: 0}
+  - muzzlePoint: {instanceID: 0}
+  - PlayerCam: {instanceID: 0}
+  - laser: {fileID: 8300000, guid: 995300ecf10a4c649b6aaa1f81a568b4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

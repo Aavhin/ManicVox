@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d66a53e340f2ce446abaf2e61ead2204
+timeCreated: 1517748491
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: STARWARS
+  fontNames:
+  - STARWARS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
